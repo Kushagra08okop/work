@@ -1,0 +1,14 @@
+h1{font-variant: small-caps;}
+body{background-image: url("waqku.jpg");
+background-size: auto;}
+a{color: antiquewhite;}
+table{background-color: rgb(255, 255, 255);}
+table:hover{
+    background-color: rgb(255, 0, 0);
+}
+form:hover{
+    color: rgb(255, 42, 0);
+}
+h1:hover{color: red;}
+a:hover{color: brown;}
+table{color: black;}
